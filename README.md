@@ -12,10 +12,11 @@ that were used for the three models described in the paper.
 
 The fine-tuned models were trained in Leonardo AI with the following settings:
 
-Model: Stable Diffusion v2
-Training resolution: 768x768
-Category: Buildings
-Strength: Medium
+- Model: Stable Diffusion v2
+- Training resolution: 768x768
+- Category: Buildings
+- Strength: Medium
+
 
 and instance prompts:
 
