@@ -2,7 +2,7 @@ This Repository contains the datasets of images used to create the customized te
 
 "Architectural Drawing with Artificial Intelligence: Stable Diffusion Learns from Sebastiano Serlio"
 
-currently under review at EGA Expresión Gráfica Arquitectónica (https://polipapers.upv.es/index.php/EGA)
+accepted for publication at EGA Expresión Gráfica Arquitectónica (https://polipapers.upv.es/index.php/EGA)
 
 Three datasets are included:
 
